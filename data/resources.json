@@ -89,5 +89,29 @@
     "category": "Programs",
     "level": "Beginner",
     "description": "A free summer program where contributors earn points for merged pull requests."
+  },
+  {
+    "title": "Official Python Tutorial",
+    "url": "https://docs.python.org/3/tutorial/",
+    "category": "Python",
+    "level": "Beginner",
+    "description": "The official documentation guide introducing core Python concepts, syntax, and built-in data structures.",
+    "addedBy": "sparkysolutions10-pixel"
+  },
+  {
+    "title": "Automate the Boring Stuff with Python",
+    "url": "https://automatetheboringstuff.com",
+    "category": "Python",
+    "level": "Beginner",
+    "description": "A hands-on, practical guide explaining how to write beginner Python programs for real-world tasks.",
+    "addedBy": "sparkysolutions10-pixel"
+  },
+  {
+    "title": "Real Python Beginner Tutorials",
+    "url": "https://realpython.com/start-here/",
+    "category": "Python",
+    "level": "Beginner",
+    "description": "Step-by-step free tutorials covering fundamentals, idioms, and practical programming practices.",
+    "addedBy": "sparkysolutions10-pixel"
   }
 ]
